@@ -1,5 +1,6 @@
-##Create Podcast
-##Uitlizando inteligencia artificial
+Create Podcast
+
+Utilizando inteligencia artificial
 .MidJourney
 .EllevenLabs
 .ChatGPT
